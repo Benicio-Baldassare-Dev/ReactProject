@@ -1,0 +1,11 @@
+.nav-cart{
+    text-align: center;
+    color: darkcyan;
+    border: 2px solid aquamarine;
+    background-color: aquamarine;
+    position: relative;
+    top: 15px;
+    right: 50px;
+    border-radius: 100px;
+    padding: 2px 2px;
+}

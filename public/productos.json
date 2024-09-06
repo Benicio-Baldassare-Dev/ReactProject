@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nombre": "Notebook Noblex N14 14 FHD i3-1115G4 8GB 256GB SSD Win11",
+        "precio": 439000,
+        "stock": 20,
+        "category": "Notebooks",
+        "img": "/assets/img/Notebook_Noblex_N14.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Procesador AMD RYZEN 5 3600 4.2GHz Turbo AM4",
+        "precio": 130000,
+        "stock": 20,
+        "category": "Procesadores",
+        "img": "/assets/img/Procesador-AMD-Ryzen5.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Mother Asrock B450M-HDV 4.0 AM4 HDMI M.2",
+        "precio": 75850,
+        "stock": 20,
+        "category": "Mothers",
+        "img": "/assets/img/Mother-Asrock-B450-HDV.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Placa de Video MSI GeForce GTX 1650 4GB GDDR6 Ventus XS OC",
+        "precio": 179640,
+        "stock": 20,
+        "category": "Video",
+        "img": "/assets/img/GeForce-GTX-1650.jpg"
+    },
+    {
+       "id": 5,
+        "nombre": "Disco Sólido SSD Kingston 480GB A400 500MB/s",
+        "precio": 43950,
+        "stock": 20,
+        "category": "Almacenamiento",
+        "img": "/assets/img/Disco-Solido-SSD-480GB.jpg" 
+    },
+    {
+        "id": 6,
+         "nombre": "Fuente Cooler Master 650W 80 Plus Bronze MWE V2",
+         "precio": 174950,
+         "stock": 20,
+         "category": "Fuentes",
+         "img": "/assets/img/Fuente-Master-650W-80Plus.jpg" 
+     }
+
+]

@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: darkcyan;
+    padding: 10px 15px;
+}
+
+.footer h2{
+    color: aquamarine;
+}
+
+.footer p{
+    color: aquamarine;
+    font-size: 18px;
+     font-weight: bold;
+     position: relative;
+     top: 5px;
+}

@@ -1,0 +1,43 @@
+h2{
+    text-align: center;
+    justify-content: center;
+    font-size: 36px;
+    padding: 20px;
+}
+
+.productos-confirmar{
+    text-align: center;
+    justify-content: center;
+}
+
+.formulario{
+    border: 2px solid aquamarine;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: darkcyan;
+}
+
+.campos-form{
+    display: grid;
+    color: aquamarine;
+}
+
+form{
+    position: relative;
+    text-align: center;
+    right: -600px;
+    justify-content: center;
+    width: 20%;
+    border-radius:5px ;
+}
+
+button{
+    padding: 10px 20px;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+    background-color: darkcyan;
+    color: aquamarine;
+    cursor: pointer; 
+}
+
+

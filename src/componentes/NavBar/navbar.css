@@ -1,0 +1,44 @@
+.navbar{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background-color: darkcyan;
+   padding: 20px 25px;
+}
+
+.navbar-logo{
+    color: aquamarine;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.navbar-links ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+
+.navbar-links ul a{
+    text-decoration: none;
+    color: aquamarine;
+    font-size: 18px;
+}
+
+.active{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.cart-nav{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 0px;
+}
+
+.cart-nav a img{
+    width: 20%;
+    height: 100%;
+}
